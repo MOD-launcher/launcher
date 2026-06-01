@@ -1,0 +1,30 @@
+# Gradle
+.gradle/
+build/
+gradle-app.setting
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+gradlew
+gradlew.bat
+
+# IDE
+.idea/
+*.iml
+*.iws
+.DS_Store
+.vscode/
+*.swp
+*.swo
+
+# Build
+out/
+bin/
+target/
+*.class
+*.jar
+
+# Project specific
+mods/
+versions/
+config/
+.launcher-data/
